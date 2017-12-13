@@ -16,7 +16,7 @@ section.header .container-fluid a:hover {
     color: red !important;
 }
 section.header img{
-    width:75%;
+    width: 80px;
 }
 section.navbar {
     left: 50%;
@@ -24,6 +24,7 @@ section.navbar {
 }
 section.header .navbar-nav {
     margin-left: 20%;
+    margin-top: 20px;
     text-transform: uppercase;
 }
 section.header li {
